@@ -12,4 +12,4 @@ Work is in progress to extend strategies involving multi-asset portfolios and ar
 
 We then backtest the following simple mean reversion strategy: we invest the whole portfolio whenever IBS < 0.15 and 10-day Kauffman efficiency ratio > 0.28. Once in position, we sell the next day at open.
 
-Between 1995 and 2015, we obtain a Sharpe ratio of 1.05, 6.21% and maximum drawdown of 7%. The very low drawdown makes it a safe strategy. The drawback is that the strategy underperforms when the market is in a strong trend.
+Between 1995 and 2015, we obtain a Sharpe ratio of 1.05, CAGR of 6.21% and maximum drawdown of 7%. The very low drawdown makes it a safe strategy. The drawback is that the strategy underperforms when the market is in a strong trend.
